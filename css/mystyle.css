@@ -1,0 +1,25 @@
+body {
+        margin:0;
+        background-color:black;
+}
+.AppContainer {
+        margin : auto;
+        margin-top : 50px;
+        width : 400px;
+        height : 500px;
+        border: 2px solid ;
+        background-color: gray;
+        padding: 10px;
+  
+}
+.AppContainer h2 {
+        margin-left: 5px;
+        color:white;
+        font-style: italic;
+}
+      
+.ButtonGroup {
+        float : right;
+        margin-top: 100px;
+        margin-right: 5px;
+}
